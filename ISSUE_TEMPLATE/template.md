@@ -1,3 +1,11 @@
+---
+name: "📋 Scrum Task"
+about: "A scrum task with user story, acceptance criteria, and definition of done"
+title: "[TASK] "
+labels: ["task"]
+assignees: ""
+---
+
 ## 📖 User Story
  
 > As a **[type of user]**,
